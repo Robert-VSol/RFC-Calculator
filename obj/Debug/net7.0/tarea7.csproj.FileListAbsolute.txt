@@ -1,0 +1,15 @@
+C:\Users\doris\Desktop\progamación\unidc#\tarea7\obj\Debug\net7.0\tarea7.csproj.AssemblyReference.cache
+C:\Users\doris\Desktop\progamación\unidc#\tarea7\obj\Debug\net7.0\tarea7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doris\Desktop\progamación\unidc#\tarea7\obj\Debug\net7.0\tarea7.AssemblyInfoInputs.cache
+C:\Users\doris\Desktop\progamación\unidc#\tarea7\obj\Debug\net7.0\tarea7.AssemblyInfo.cs
+C:\Users\doris\Desktop\progamación\unidc#\tarea7\obj\Debug\net7.0\tarea7.csproj.CoreCompileInputs.cache
+C:\Users\doris\Desktop\progamación\unidc#\tarea7\bin\Debug\net7.0\tarea7.exe
+C:\Users\doris\Desktop\progamación\unidc#\tarea7\bin\Debug\net7.0\tarea7.deps.json
+C:\Users\doris\Desktop\progamación\unidc#\tarea7\bin\Debug\net7.0\tarea7.runtimeconfig.json
+C:\Users\doris\Desktop\progamación\unidc#\tarea7\bin\Debug\net7.0\tarea7.dll
+C:\Users\doris\Desktop\progamación\unidc#\tarea7\bin\Debug\net7.0\tarea7.pdb
+C:\Users\doris\Desktop\progamación\unidc#\tarea7\obj\Debug\net7.0\tarea7.dll
+C:\Users\doris\Desktop\progamación\unidc#\tarea7\obj\Debug\net7.0\refint\tarea7.dll
+C:\Users\doris\Desktop\progamación\unidc#\tarea7\obj\Debug\net7.0\tarea7.pdb
+C:\Users\doris\Desktop\progamación\unidc#\tarea7\obj\Debug\net7.0\tarea7.genruntimeconfig.cache
+C:\Users\doris\Desktop\progamación\unidc#\tarea7\obj\Debug\net7.0\ref\tarea7.dll
